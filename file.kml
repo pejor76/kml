@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+<Document>
+<name>Wall To Wall</name>
+<open>1</open>
+<Style id='wallToWallIcon'>
+<IconStyle><Icon><href>https://api.appery.io/rest/1/db/files/58167559e4b00e2f1a2c6e27/ad1ec453-91ca-4ae5-b1b6-fc1f95863102.map-cross.png</href></Icon>
+</IconStyle><LineStyle><width>2</width></LineStyle>
+<BalloonStyle> <text> <![CDATA[ <B>$[name]</B><br> $[description]<div><table style='width:60%'> <tr> <td style='width:40%'><B>Customer Name: </B></td> <td > $[Customer Name:]</td> </tr> <tr> <td ><B>Job Name: </B></td> <td> $[Job Name:]</td> </tr> <tr> <td > <B>Location number: </B></td> <td> $[Location number:]</td> </tr> <tr> <td ><B>Location Name: </B></td><td> $[Location Name:]</td></tr> <tr> <td ><B>Location Type: </B></td><td>$[Location Type:]</td></tr> <tr> <td ><B>Type: </B></td><td>$[Type:]</td></tr> <tr> <td><B>Items: </B></td><td>$[Items: ]</td></tr><tr> <td><B>Materials : </B></td><td>$[Materials: ]</td></tr><tr> <td ><B>Date: </B></td><td>$[Date:]</td></tr><tr> <td ><B>Length: </B></td><td>$[Length:]</td></tr> <tr> <td ><B>Quantity: </B></td><td>$[Quantity:]</td></tr><tr> <td ><B>Services: </B></td><td>$[Services:]</td></tr> <tr> <td ><B>Size: </B></td><td>$[Size:]</td></tr><tr> <td ><B>Measure: </B></td><td>$[Measure:]</td></tr> <tr> <td><B>Address: </B></td><td>$[Address:]</td></tr> <tr><td ><B>Gps Co-ordiantes: </B></td><td>$[Gps Co-ordiantes:]</td></tr><tr> <td ><B>Fibre IN: </B></td><td>$[Fibre IN:]</td></tr><tr> <td ><B>Fibre OUT: </B></td><td>$[Fibre OUT:]</td></tr><tr> <td ><B>Slack: </B></td><td>$[Slack:]</td></tr><tr> <td ><B>Splice: </B></td><td>$[Splice:]</td></tr> </table></div> ]]> </text> </BalloonStyle>
+</Style>
+<Style id='riserIcon'>
+<IconStyle><Icon><href>https://api.appery.io/rest/1/db/files/58167559e4b00e2f1a2c6e27/7010d5f5-1829-4287-ad2f-d97febe68f1c.circle-cross.png</href></Icon>
+</IconStyle><LineStyle><width>2</width></LineStyle>
+<BalloonStyle> <text> <![CDATA[ <B>$[name]</B><br> $[description]<div><table style='width:60%'> <tr> <td style='width:40%'><B>Customer Name: </B></td> <td > $[Customer Name:]</td> </tr> <tr> <td ><B>Job Name: </B></td> <td> $[Job Name:]</td> </tr> <tr> <td > <B>Location number: </B></td> <td> $[Location number:]</td> </tr> <tr> <td ><B>Location Name: </B></td><td> $[Location Name:]</td></tr> <tr> <td ><B>Location Type: </B></td><td>$[Location Type:]</td></tr><tr> <td ><B>Type: </B></td><td>$[Type:]</td></tr> <tr> <td><B>Items: </B></td><td>$[Items: ]</td></tr><tr> <td><B>Materials : </B></td><td>$[Materials: ]</td></tr><tr> <td ><B>Date: </B></td><td>$[Date:]</td></tr><tr> <td ><B>Length: </B></td><td>$[Length:]</td></tr> <tr> <td ><B>Quantity: </B></td><td>$[Quantity:]</td></tr><tr> <td ><B>Services: </B></td><td>$[Services:]</td></tr><tr> <td ><B>Size: </B></td><td>$[Size:]</td></tr> <tr> <td ><B>Measure: </B></td><td>$[Measure:]</td></tr> <tr> <td><B>Address: </B></td><td>$[Address:]</td></tr> <tr><td ><B>Gps Co-ordiantes: </B></td><td>$[Gps Co-ordiantes:]</td></tr> <tr> <td ><B>Fibre IN: </B></td><td>$[Fibre IN:]</td></tr><tr> <td ><B>Fibre OUT: </B></td><td>$[Fibre OUT:]</td></tr><tr> <td ><B>Slack: </B></td><td>$[Slack:]</td></tr><tr> <td ><B>Splice: </B></td><td>$[Splice:]</td></tr></table></div> ]]> </text> </BalloonStyle>
+</Style>
+<Placemark>
+<name>Loc 1</name>
+<styleUrl>#wallToWallIcon</styleUrl>
+<description><![CDATA[ <style type='text/css'> div#lyr1 { white-space:nowrap; /* content will wrap without this */ } div#lyr1 img { padding: 0 8px; /* optional gap between images */ } </style><div id='wn'><div id='lyr1'> 
+<img src='https://api.appery.io/rest/1/db/files/58167559e4b00e2f1a2c6e27/154eb799-c35a-4cc8-8ef9-f47f09c49582.1521069513451.jpg'    width='160'  height='100'>
+</div></div>]]></description>
+<ExtendedData>
+<Data name='Customer Name:'><value> Demo Client</value></Data>
+<Data name='Job Name:'><value> Chowchilla High Ext</value></Data>
+<Data name='Location number:'><value> 1</value></Data>
+<Data name='Location Name:'><value> Customer ped</value></Data>
+<Data name='Location Type:'><value> Pedestal</value></Data>
+<Data name='Type:'><value>N/A</value></Data>
+<Data name='Date:'><value>N/A</value></Data>
+<Data name='Items: '><value>No Items Found</value></Data>
+<Data name='Materials: '><value>No Materials Found</value></Data>
+<Data name='Length:'><value>N/A</value></Data>
+<Data name='Services:'><value>N/A</value></Data>
+<Data name='Quantity:'><value>N/A</value></Data>
+<Data name='Size:'><value>N/A</value></Data>
+<Data name='Measure:'><value> 24x30</value></Data>
+<Data name='Address:'><value> 16432 Ave 25, Chowchilla, CA 93610, USA</value></Data>
+<Data name='Gps Co-ordiantes:'><value> lat : 37.112711, lng:-120.252110</value></Data>
+<Data name='Fibre IN:'><value>N/A</value></Data>
+<Data name='Fibre OUT:'><value>N/A</value></Data>
+<Data name='Slack:'><value>N/A</value></Data>
+<Data name='Splice:'><value>N/A</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>
+-120.252110 , 37.112711
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Loc 2</name>
+<styleUrl>#wallToWallIcon</styleUrl>
+<description><![CDATA[ <style type='text/css'> div#lyr1 { white-space:nowrap; /* content will wrap without this */ } div#lyr1 img { padding: 0 8px; /* optional gap between images */ } </style><div id='wn'><div id='lyr1'> 
+<img src='https://api.appery.io/rest/1/db/files/58167559e4b00e2f1a2c6e27/4cb45163-dc15-4025-9652-ed69801f1fe4.1521069285911.jpg'    width='160'  height='100'>
+</div></div>]]></description>
+<ExtendedData>
+<Data name='Customer Name:'><value> Demo Client</value></Data>
+<Data name='Job Name:'><value> Chowchilla High Ext</value></Data>
+<Data name='Location number:'><value> 2</value></Data>
+<Data name='Location Name:'><value> Vault on ave 24</value></Data>
+<Data name='Location Type:'><value> Box/Vault</value></Data>
+<Data name='Type:'><value>N/A</value></Data>
+<Data name='Date:'><value>N/A</value></Data>
+<Data name='Items: '><value>No Items Found</value></Data>
+<Data name='Materials: '><value>No Materials Found</value></Data>
+<Data name='Length:'><value>N/A</value></Data>
+<Data name='Services:'><value>N/A</value></Data>
+<Data name='Quantity:'><value>N/A</value></Data>
+<Data name='Size:'><value>N/A</value></Data>
+<Data name='Measure:'><value> 24x36</value></Data>
+<Data name='Address:'><value> 16000 Ave 25, Chowchilla, CA 93610, USA</value></Data>
+<Data name='Gps Co-ordiantes:'><value> lat : 37.112720, lng:-120.254898</value></Data>
+<Data name='Fibre IN:'><value>N/A</value></Data>
+<Data name='Fibre OUT:'><value>N/A</value></Data>
+<Data name='Slack:'><value>N/A</value></Data>
+<Data name='Splice:'><value>N/A</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>
+-120.254898 , 37.112720
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>path</name>
+<ExtendedData>
+<Data name='Customer Name:'><value> Demo Client</value></Data>
+<Data name='Job Name:'><value> Chowchilla High Ext</value></Data>
+<Data name='Location number:'><value> 2</value></Data>
+<Data name='Location Name:'><value> Vault on ave 24</value></Data>
+<Data name='Location Type:'><value> Box/Vault</value></Data>
+<Data name='Type:'><value>N/A</value></Data>
+<Data name='Date:'><value>N/A</value></Data>
+<Data name='Items: '><value>No Items Found</value></Data>
+<Data name='Materials: '><value>No Materials Found</value></Data>
+<Data name='Length:'><value>N/A</value></Data>
+<Data name='Services:'><value>N/A</value></Data>
+<Data name='Quantity:'><value>N/A</value></Data>
+<Data name='Size:'><value>N/A</value></Data>
+<Data name='Measure:'><value> 24x36</value></Data>
+<Data name='Address:'><value> 16000 Ave 25, Chowchilla, CA 93610, USA</value></Data>
+<Data name='Gps Co-ordiantes:'><value> lat : 37.112720, lng:-120.254898</value></Data>
+<Data name='Fibre IN:'><value>N/A</value></Data>
+<Data name='Fibre OUT:'><value>N/A</value></Data>
+<Data name='Slack:'><value>N/A</value></Data>
+<Data name='Splice:'><value>N/A</value></Data>
+</ExtendedData>
+<LineString>
+<coordinates>
+-120.25210951877193,37.112710674928955
+-120.25489780352638,37.11272049543164
+</coordinates>
+<altitudeMode>clampToSeaFloor</altitudeMode>
+</LineString>
+<Style><LineStyle><color>ff0000ff</color><width>3</width></LineStyle></Style>
+</Placemark>
+<Placemark>
+<name>Loc 3</name>
+<styleUrl>#riserIcon</styleUrl>
+<description><![CDATA[ <style type='text/css'> div#lyr1 { white-space:nowrap; /* content will wrap without this */ } div#lyr1 img { padding: 0 8px; /* optional gap between images */ } </style><div id='wn'><div id='lyr1'> 
+<img src='https://api.appery.io/rest/1/db/files/58167559e4b00e2f1a2c6e27/dd05543f-3a68-4296-9f1c-fa8c82171ea2.1521067997212.jpg'    width='160'  height='100'>
+</div></div>]]></description>
+<ExtendedData>
+<Data name='Customer Name:'><value> Demo Client</value></Data>
+<Data name='Job Name:'><value> Chowchilla High Ext</value></Data>
+<Data name='Location number:'><value> 3</value></Data>
+<Data name='Location Name:'><value> Pole 13</value></Data>
+<Data name='Location Type:'><value> Pole and Riser</value></Data>
+<Data name='Type:'><value>N/A</value></Data>
+<Data name='Date:'><value>N/A</value></Data>
+<Data name='Items: '><value>No Items Found</value></Data>
+<Data name='Materials: '><value>No Materials Found</value></Data>
+<Data name='Length:'><value>N/A</value></Data>
+<Data name='Services:'><value>N/A</value></Data>
+<Data name='Quantity:'><value>N/A</value></Data>
+<Data name='Size:'><value>N/A</value></Data>
+<Data name='Measure:'><value> 18</value></Data>
+<Data name='Address:'><value> 24655 Rd 16, Chowchilla, CA 93610, USA</value></Data>
+<Data name='Gps Co-ordiantes:'><value> lat : 37.112867, lng:-120.256834</value></Data>
+<Data name='Fibre IN:'><value>N/A</value></Data>
+<Data name='Fibre OUT:'><value>N/A</value></Data>
+<Data name='Slack:'><value>N/A</value></Data>
+<Data name='Splice:'><value>N/A</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>
+-120.256834 , 37.112867
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>path</name>
+<ExtendedData>
+<Data name='Customer Name:'><value> Demo Client</value></Data>
+<Data name='Job Name:'><value> Chowchilla High Ext</value></Data>
+<Data name='Location number:'><value> 3</value></Data>
+<Data name='Location Name:'><value> Pole 13</value></Data>
+<Data name='Location Type:'><value> Pole and Riser</value></Data>
+<Data name='Type:'><value>N/A</value></Data>
+<Data name='Date:'><value>N/A</value></Data>
+<Data name='Items: '><value>No Items Found</value></Data>
+<Data name='Materials: '><value>No Materials Found</value></Data>
+<Data name='Length:'><value>N/A</value></Data>
+<Data name='Services:'><value>N/A</value></Data>
+<Data name='Quantity:'><value>N/A</value></Data>
+<Data name='Size:'><value>N/A</value></Data>
+<Data name='Measure:'><value> 18</value></Data>
+<Data name='Address:'><value> 24655 Rd 16, Chowchilla, CA 93610, USA</value></Data>
+<Data name='Gps Co-ordiantes:'><value> lat : 37.112867, lng:-120.256834</value></Data>
+<Data name='Fibre IN:'><value>N/A</value></Data>
+<Data name='Fibre OUT:'><value>N/A</value></Data>
+<Data name='Slack:'><value>N/A</value></Data>
+<Data name='Splice:'><value>N/A</value></Data>
+</ExtendedData>
+<LineString>
+<coordinates>
+-120.25489780352638,37.11272049543167
+-120.25684242293107,37.11271572340455
+-120.25683439417293,37.11286709294669
+</coordinates>
+<altitudeMode>clampToSeaFloor</altitudeMode>
+</LineString>
+<Style><LineStyle><color>ff0000ff</color><width>3</width></LineStyle></Style>
+</Placemark>
+<Placemark>
+<name>Loc 4</name>
+<styleUrl>#riserIcon</styleUrl>
+<description><![CDATA[ <style type='text/css'> div#lyr1 { white-space:nowrap; /* content will wrap without this */ } div#lyr1 img { padding: 0 8px; /* optional gap between images */ } </style><div id='wn'><div id='lyr1'> 
+<img src='https://api.appery.io/rest/1/db/files/58167559e4b00e2f1a2c6e27/b35cfc21-0e25-4580-b5b3-930064f342b3.1521068175936.jpg'    width='160'  height='100'>
+</div></div>]]></description>
+<ExtendedData>
+<Data name='Customer Name:'><value> Demo Client</value></Data>
+<Data name='Job Name:'><value> Chowchilla High Ext</value></Data>
+<Data name='Location number:'><value> 4</value></Data>
+<Data name='Location Name:'><value> Pole 4</value></Data>
+<Data name='Location Type:'><value> Pole</value></Data>
+<Data name='Type:'><value>N/A</value></Data>
+<Data name='Date:'><value>N/A</value></Data>
+<Data name='Items: '><value>No Items Found</value></Data>
+<Data name='Materials: '><value>No Materials Found</value></Data>
+<Data name='Length:'><value>N/A</value></Data>
+<Data name='Services:'><value>N/A</value></Data>
+<Data name='Quantity:'><value>N/A</value></Data>
+<Data name='Size:'><value>N/A</value></Data>
+<Data name='Measure:'><value>N/A</value></Data>
+<Data name='Address:'><value> 707 Rd 16, Chowchilla, CA 93610, USA</value></Data>
+<Data name='Gps Co-ordiantes:'><value> lat : 37.116251, lng:-120.257074</value></Data>
+<Data name='Fibre IN:'><value>N/A</value></Data>
+<Data name='Fibre OUT:'><value>N/A</value></Data>
+<Data name='Slack:'><value>N/A</value></Data>
+<Data name='Splice:'><value>N/A</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>
+-120.257074 , 37.116251
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>path</name>
+<ExtendedData>
+<Data name='Customer Name:'><value> Demo Client</value></Data>
+<Data name='Job Name:'><value> Chowchilla High Ext</value></Data>
+<Data name='Location number:'><value> 4</value></Data>
+<Data name='Location Name:'><value> Pole 4</value></Data>
+<Data name='Location Type:'><value> Pole</value></Data>
+<Data name='Type:'><value>N/A</value></Data>
+<Data name='Date:'><value>N/A</value></Data>
+<Data name='Items: '><value>No Items Found</value></Data>
+<Data name='Materials: '><value>No Materials Found</value></Data>
+<Data name='Length:'><value>N/A</value></Data>
+<Data name='Services:'><value>N/A</value></Data>
+<Data name='Quantity:'><value>N/A</value></Data>
+<Data name='Size:'><value>N/A</value></Data>
+<Data name='Measure:'><value>N/A</value></Data>
+<Data name='Address:'><value> 707 Rd 16, Chowchilla, CA 93610, USA</value></Data>
+<Data name='Gps Co-ordiantes:'><value> lat : 37.116251, lng:-120.257074</value></Data>
+<Data name='Fibre IN:'><value>N/A</value></Data>
+<Data name='Fibre OUT:'><value>N/A</value></Data>
+<Data name='Slack:'><value>N/A</value></Data>
+<Data name='Splice:'><value>N/A</value></Data>
+</ExtendedData>
+<LineString>
+<coordinates>
+-120.25683439417293,37.11286709294669
+-120.25690156785993,37.11548287351093
+-120.25694751994331,37.1158522353347
+-120.25696018107357,37.11615540204564
+-120.25707437536835,37.1162513972731
+</coordinates>
+<altitudeMode>clampToSeaFloor</altitudeMode>
+</LineString>
+<Style><LineStyle><color>ff0000ff</color><width>3</width></LineStyle></Style>
+</Placemark>
+<Placemark>
+<name>Loc 5</name>
+<styleUrl>#riserIcon</styleUrl>
+<description><![CDATA[ <style type='text/css'> div#lyr1 { white-space:nowrap; /* content will wrap without this */ } div#lyr1 img { padding: 0 8px; /* optional gap between images */ } </style><div id='wn'><div id='lyr1'> 
+<img src='https://api.appery.io/rest/1/db/files/58167559e4b00e2f1a2c6e27/38cf0512-e0fc-4744-8cb5-f6f6c67294b4.1521068819269.jpg'    width='160'  height='100'>
+</div></div>]]></description>
+<ExtendedData>
+<Data name='Customer Name:'><value> Demo Client</value></Data>
+<Data name='Job Name:'><value> Chowchilla High Ext</value></Data>
+<Data name='Location number:'><value> 5</value></Data>
+<Data name='Location Name:'><value> Pole 1</value></Data>
+<Data name='Location Type:'><value> Pole</value></Data>
+<Data name='Type:'><value>N/A</value></Data>
+<Data name='Date:'><value>N/A</value></Data>
+<Data name='Items: '><value>No Items Found</value></Data>
+<Data name='Materials: '><value>No Materials Found</value></Data>
+<Data name='Length:'><value>N/A</value></Data>
+<Data name='Services:'><value>N/A</value></Data>
+<Data name='Quantity:'><value>N/A</value></Data>
+<Data name='Size:'><value>N/A</value></Data>
+<Data name='Measure:'><value>N/A</value></Data>
+<Data name='Address:'><value> 703 Rd 16, Chowchilla, CA 93610, USA</value></Data>
+<Data name='Gps Co-ordiantes:'><value> lat : 37.116823, lng:-120.257790</value></Data>
+<Data name='Fibre IN:'><value>N/A</value></Data>
+<Data name='Fibre OUT:'><value>N/A</value></Data>
+<Data name='Slack:'><value>N/A</value></Data>
+<Data name='Splice:'><value>N/A</value></Data>
+</ExtendedData>
+<Point>
+<coordinates>
+-120.257790 , 37.116823
+</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>path</name>
+<ExtendedData>
+<Data name='Customer Name:'><value> Demo Client</value></Data>
+<Data name='Job Name:'><value> Chowchilla High Ext</value></Data>
+<Data name='Location number:'><value> 5</value></Data>
+<Data name='Location Name:'><value> Pole 1</value></Data>
+<Data name='Location Type:'><value> Pole</value></Data>
+<Data name='Type:'><value>N/A</value></Data>
+<Data name='Date:'><value>N/A</value></Data>
+<Data name='Items: '><value>No Items Found</value></Data>
+<Data name='Materials: '><value>No Materials Found</value></Data>
+<Data name='Length:'><value>N/A</value></Data>
+<Data name='Services:'><value>N/A</value></Data>
+<Data name='Quantity:'><value>N/A</value></Data>
+<Data name='Size:'><value>N/A</value></Data>
+<Data name='Measure:'><value>N/A</value></Data>
+<Data name='Address:'><value> 703 Rd 16, Chowchilla, CA 93610, USA</value></Data>
+<Data name='Gps Co-ordiantes:'><value> lat : 37.116823, lng:-120.257790</value></Data>
+<Data name='Fibre IN:'><value>N/A</value></Data>
+<Data name='Fibre OUT:'><value>N/A</value></Data>
+<Data name='Slack:'><value>N/A</value></Data>
+<Data name='Splice:'><value>N/A</value></Data>
+</ExtendedData>
+<LineString>
+<coordinates>
+-120.25707437536835,37.1162513972731
+-120.25778975931382,37.11682262114507
+</coordinates>
+<altitudeMode>clampToSeaFloor</altitudeMode>
+</LineString>
+<Style><LineStyle><color>ff0000ff</color><width>3</width></LineStyle></Style>
+</Placemark>
+</Document>
+</kml>
