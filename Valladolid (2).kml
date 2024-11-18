@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Mapa sin nombre</name>
+    <description/>
+    <Style id="line-E65100-5844-nodesc-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>5.844</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-E65100-5844-nodesc-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>8.766</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-E65100-5844-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-E65100-5844-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-E65100-5844-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Capa sin nombre</name>
+      <Placemark>
+        <name>Línea 1</name>
+        <styleUrl>#line-E65100-5844-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -4.7215323,41.6571485,0
+            -4.7213285,41.6569801,0
+            -4.7206418,41.6575813,0
+            -4.7194939,41.6572006,0
+            -4.7152131,41.6590442,0
+            -4.7140329,41.6595853,0
+            -4.7132819,41.6595251,0
+            -4.7126006,41.6595452,0
+            -4.7116698,41.6582326,0
+            -4.7112152,41.6575763,0
+            -4.7110074,41.6568799,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
