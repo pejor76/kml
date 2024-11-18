@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>valladolid_prueba</name>
+	<gx:CascadingStyle kml:id="__managed_style_258D91752B3473D2F25F">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff9f3f30</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1FC124E58A3473D2F25F">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff9f3f30</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0A362ABE9A3473D2F25F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1FC124E58A3473D2F25F</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_258D91752B3473D2F25F</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0386F379C03473BD436F">
+		<name>Ruta sin título</name>
+		<styleUrl>#__managed_style_0A362ABE9A3473D2F25F</styleUrl>
+		<LineString>
+			<coordinates>
+				-4.721379535430856,41.65787959065486,0 -4.719527328087926,41.65725320815227,0 -4.71681806868106,41.65837898209504,0 -4.716199975193525,41.65866535583835,0 -4.7154634034586,41.65894184520874,0 -4.714108714556504,41.65950469241651,0 -4.712523580471453,41.65953134194679,0 -4.711420843653034,41.65774247496972,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
