@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Prueba</name>
+	<gx:CascadingStyle kml:id="__managed_style_0D69CD740534740F618B">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2f2fd3</color>
+				<width>7.4805</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_13C280EBD334740F618A">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2f2fd3</color>
+				<width>4.987</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0B71F0C86934740F618A">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_13C280EBD334740F618A</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0D69CD740534740F618B</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="001D6C0F783474016B63">
+		<name>Guia de tres puntos</name>
+		<styleUrl>#__managed_style_0B71F0C86934740F618A</styleUrl>
+		<LineString>
+			<tessellate>1</tessellate>
+			<coordinates>
+				-4.4199989,36.7200942,0 -4.4201082,36.7200856,0 -4.4201005,36.7199977,0 -4.4200133,36.7197101,0 -4.4199315,36.7193175,0 -4.4198668,36.7186585,0 -4.4198511,36.7184144,0 -4.4134624,36.720206,0 -4.4130128,36.7204548,0 -4.4129618,36.7205752,0 -4.4128465,36.7206913,0 -4.4126829,36.7207902,0 -4.4126426,36.7208612,0 -4.4126426,36.7209515,0 -4.4126936,36.7210461,0 -4.4127553,36.7210977,0 -4.412943,36.7209515,0 -4.4129859,36.7209902,0 -4.4130369,36.721074,0 -4.4131147,36.7211084,0 -4.4131817,36.7211106,0 -4.4133641,36.7210955,0 -4.4135626,36.7210568,0 -4.4151317,36.7206075,0 -4.4151049,36.7205591,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
