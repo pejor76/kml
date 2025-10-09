@@ -3,12 +3,6 @@
   <Document>
     <Placemark>
       <name>Línea con distancias</name>
-      <ExtendedData>
-        <Data name="distances">
-          <value>0, 0.4142516640345357, 0.8458079466808177, 1.0676026369248794, 1.5518743240652655,
-            2.2816984623026335, 3.050990612691792</value>
-        </Data>
-      </ExtendedData>
       <MultiGeometry>
         <LineString>
           <coordinates>-4.422814223587026,36.720350460456096,8.035699844360352
