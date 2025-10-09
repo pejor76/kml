@@ -3,6 +3,18 @@
     <Document>
         <name>Track 6 PICOS S.CALDERONA PICO del AGUILA EL MORRO LA FURIONA XOCAINET LA REDONA El
             RODENO de la CRUZ y CASA del DRAGON S.CALDERONA :wikiloc.com</name>
+      <Style id="lineStyle">
+        <LineStyle>
+          <color>ff0078e5</color> <!-- AABBGGRR -->
+          <width>4</width>
+        </LineStyle>
+      </Style>
+      <ExtendedData>
+        <Data name="distances">
+          <value>0, 0.4142516640345357, 0.8458079466808177, 1.0676026369248794, 1.5518743240652655,
+            2.2816984623026335, 3.050990612691792</value>
+        </Data>
+      </ExtendedData>
         <Placemark>
             <name>Path</name>
             <styleUrl>#lineStyle</styleUrl>
